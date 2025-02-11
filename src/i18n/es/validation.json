@@ -1,0 +1,11 @@
+{
+  "isNotEmpty": "La campo {property} no puede estar vacío",
+  "isEmail": "El correo electrónico es inválido",
+  "isString": "La campo {property} debe ser un texto",
+  "isBoolean": "La campo {property} no es un booleano",
+  "isMin": "La campo {property} con valor: \"{value}\" tiene que ser al menos {constraints.0}",
+  "isMinLength": "La campo {property} debe tener al menos {min} dígitos",
+  "isMax": "La campo {property} con valor: \"{value}\" debe ser menor que {constraints.0}",
+  "isMaxLength": "La campo {property} no debe ser mayor que {max} dígitos",
+  "isEnum": "La campo {property} debe ser un valor de enumeración válido"
+}

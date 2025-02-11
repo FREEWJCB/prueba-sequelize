@@ -1,0 +1,4 @@
+{
+  "SERVER_ERROR": "Ocurrió un error al procesar la solicitud",
+  "MODEL_NOT_FOUND": "El id [{id}] no se encontró en el modelo [{model}]"
+}

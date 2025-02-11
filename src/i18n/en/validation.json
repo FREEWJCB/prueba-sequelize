@@ -1,0 +1,11 @@
+{
+  "isNotEmpty": "The {property} cannot be empty",
+  "isEmail": "The email is invalid",
+  "isString": "The {property} must be a string",
+  "isBoolean": "The {property} is not a boolean",
+  "isMin": "The {property} with value: \"{value}\" needs to be at least {constraints.0}, ow and {message}",
+  "isMinLength": "The {property} must be at least {min} digits",
+  "isMax": "The {property} with value: \"{value}\" needs to be less than {constraints.0}, ow and {message}",
+  "isMaxLength": "The {property} must not be greater than {max} digits",
+  "isEnum": "The {property} must be a valid enum value"
+}
